@@ -33,4 +33,5 @@ func greetingPrefix(language string) (prefix string) {
 }
 func main() {
 	di.Greet(os.Stdout, "GiUng")
+
 }
